@@ -1,0 +1,27 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-color: blue;
+    background-size: cover;
+}
+canvas{
+    border: solid rgb(226, 12, 12);
+    background-color: pink;
+    border-radius: 10px;
+}
+
+#shoes, #room, #study{
+    width: 55%;
+    border-radius: 15px;
+    background-color: aqua;
+}
